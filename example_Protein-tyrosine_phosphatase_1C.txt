@@ -1,0 +1,5 @@
+O=C(NCc1cn([C@@H](Cc2ccc(O)cc2)C(=O)O)nn1)c1ccccc1 CHEMBL1667962
+CC(=O)N(c1ccc2oc3c(c2c1)CCCC3)S(=O)(=O)c1ccc(C(=O)O)cc1 CHEMBL1800272
+CC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3cccc(C(=O)O)c3)cc12 CHEMBL579363
+COc1ccc(-c2oc3cc(O)c(C(=O)O)cc3c2-c2cn(CCCC(=O)Nc3cccc4ccccc34)nn2)cc1 CHEMBL1650889
+Cc1ccc(-c2oc3cc(O)c(C(=O)O)cc3c2-c2cn(CCCC(=O)Nc3ccc(Cl)c4ccccc34)nn2)cc1 CHEMBL1650891
